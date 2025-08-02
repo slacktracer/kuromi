@@ -13,7 +13,8 @@
     "test": "npm run test:unit -- --run"
   },
   "dependencies": {
-    "@deno/svelte-adapter": "^0.1.0"
+    "@deno/svelte-adapter": "^0.1.0",
+    "@sveltejs/adapter-node": "^5.2.13"
   },
   "devDependencies": {
     "@sveltejs/adapter-auto": "^3.0.0",
