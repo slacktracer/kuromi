@@ -1,3 +1,3 @@
 # kuromi
 
-__Filhocas & Paizocas rule!__
+**Filhocas & Paizocas rule!**
